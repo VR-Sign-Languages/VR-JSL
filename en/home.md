@@ -24,7 +24,7 @@ In VRChat, there are two main things that affect how you use sign languages in V
 
 The following eight gestures look like those:
 
-<img src="../assets/images/idle_right.png" height="50" /><img src="../assets/images/openhand_right.png" height="50" /><img src="../assets/images/victory_right.png" height="50" /><img src="../assets/images/point_right.png" height="50" /><img src="../assets/images/fingergun_right.png" height="50" /><img src="../assets/images/thumbsup_right.png" height="50" /><img src="../assets/images/fist_right.png" height="50" /><img src="../assets/images/rocknroll_right.png" height="50" />
+<img src="VRSignLanguageDictionary/assets/images/idle_right.png" height="50" /><img src="VRSignLanguageDictionary/assets/images/openhand_right.png" height="50" /><img src="VRSignLanguageDictionary/assets/images/victory_right.png" height="50" /><img src="VRSignLanguageDictionary/assets/images/point_right.png" height="50" /><img src="VRSignLanguageDictionary/assets/images/fingergun_right.png" height="50" /><img src="VRSignLanguageDictionary/assets/images/thumbsup_right.png" height="50" /><img src="VRSignLanguageDictionary/assets/images/fist_right.png" height="50" /><img src="VRSignLanguageDictionary/assets/images/rocknroll_right.png" height="50" />
 
 (Idle, Open, Victory, Point, Finger Gun, Thumbs Up, Fist, Rock 'n' Roll)
 
@@ -34,18 +34,18 @@ Check tabs below (click each tab to see contents inside them) to see what your c
 
 #### **Meta**
 
-<img src="../assets/images/idle-meta-right.png" height="100" /><img src="../assets/images/openhand-meta-right.png" height="100" /><img src="../assets/images/victory-meta-right.png" height="100" /><img src="../assets/images/point-meta-right.png" height="100" /><img src="../assets/images/fingergun-meta-right.png" height="100" /><img src="../assets/images/thumbsup-meta-right.png" height="100" /><img src="../assets/images/fist-meta-right.png" height="100" /><img src="../assets/images/rocknroll-meta-right.png" height="100" />
+<img src="VRSignLanguageDictionary/assets/images/idle-meta-right.png" height="100" /><img src="VRSignLanguageDictionary/assets/images/openhand-meta-right.png" height="100" /><img src="VRSignLanguageDictionary/assets/images/victory-meta-right.png" height="100" /><img src="VRSignLanguageDictionary/assets/images/point-meta-right.png" height="100" /><img src="VRSignLanguageDictionary/assets/images/fingergun-meta-right.png" height="100" /><img src="VRSignLanguageDictionary/assets/images/thumbsup-meta-right.png" height="100" /><img src="VRSignLanguageDictionary/assets/images/fist-meta-right.png" height="100" /><img src="VRSignLanguageDictionary/assets/images/rocknroll-meta-right.png" height="100" />
 
 (Idle, Open, Victory, Point, Finger Gun, Thumbs Up, Fist, Rock 'n' Roll)
 
 #### **Vive**
 
-<img src="../assets/images/idle_right.png" height="100" /><img src="../assets/images/vive-noinput.png" height="100" />
+<img src="VRSignLanguageDictionary/assets/images/idle_right.png" height="100" /><img src="VRSignLanguageDictionary/assets/images/vive-noinput.png" height="100" />
 
-<img src="../assets/images/vive-gesture-left.png" height="100" /><img src="../assets/images/vive-gesture-right.png" height="100" /><img src="../assets/images/vive-gripgesture-right.png" height="100" /><img src="../assets/images/vive-triggergesture-right.png" height="100" />
+<img src="VRSignLanguageDictionary/assets/images/vive-gesture-left.png" height="100" /><img src="VRSignLanguageDictionary/assets/images/vive-gesture-right.png" height="100" /><img src="VRSignLanguageDictionary/assets/images/vive-gripgesture-right.png" height="100" /><img src="VRSignLanguageDictionary/assets/images/vive-triggergesture-right.png" height="100" />
 
 #### **Index**
 
-<img src="../assets/images/fist_left.png" height="100" /><img src="../assets/images/fist_right.png" height="100" /><img src="../assets/images/openhand_left.png" height="100" /><img src="../assets/images/openhand_right.png" height="100" />
+<img src="VRSignLanguageDictionary/assets/images/fist_left.png" height="100" /><img src="VRSignLanguageDictionary/assets/images/fist_right.png" height="100" /><img src="VRSignLanguageDictionary/assets/images/openhand_left.png" height="100" /><img src="VRSignLanguageDictionary/assets/images/openhand_right.png" height="100" />
 
 <!-- tabs:end -->
