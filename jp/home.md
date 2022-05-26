@@ -24,7 +24,7 @@ VRChatでは、VRでの手話の使い方に大きく影響するのは以下の
 
 次の8つのジェスチャーは、それらに似ている：
 
-<img src="VRSignLanguageDictionary/assets/images/idle_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/openhand_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/victory_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/point_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/fingergun_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/thumbsup_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/fist_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/rocknroll_right.png" height="50" />
+<img src="/VRSignLanguageDictionary/assets/images/idle_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/openhand_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/victory_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/point_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/fingergun_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/thumbsup_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/fist_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/rocknroll_right.png" height="50" />
 
 (Idle, Open, Victory, Point, Finger Gun, Thumbs Up, Fist, Rock 'n' Roll)
 
