@@ -1,4 +1,4 @@
-# Fingerspell
+# JSL Alphabets
 
 <!-- panels:start -->
 <!-- div:left-panel -->
@@ -6,38 +6,23 @@
 
 #### **あ**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 1.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fzCImPG6xvY?playlist=fzCImPG6xvY&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
   
 #### **い**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 2.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8OvlbSeCBGY?playlist=8OvlbSeCBGY&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **う**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 3.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EwyZ48WODyc?playlist=EwyZ48WODyc&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **え**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 4.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cl5ef20IlKs?playlist=Cl5ef20IlKs&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **お**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 5.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VO2slvelkKk?playlist=VO2slvelkKk&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 <!-- tabs:end -->
 <!-- div:right-panel -->
@@ -72,38 +57,23 @@
 
 #### **か**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 6.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2fnSmkPfGMg?playlist=2fnSmkPfGMg&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **き**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 7.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DgaPd18bYes?playlist=DgaPd18bYes&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **く**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 8.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1bcOTZ4Du_I?playlist=1bcOTZ4Du_I&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **け**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 9.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l1ihlHJp37Y?playlist=l1ihlHJp37Y&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **こ**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 10.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XX9E-xE-K0k?playlist=XX9E-xE-K0k&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 <!-- tabs:end -->
 <!-- div:right-panel -->
@@ -138,38 +108,23 @@
 
 #### **さ**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 11.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AxqLaXHJa30?playlist=AxqLaXHJa30&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **し**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 12.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQTsewS-lmc?playlist=vQTsewS-lmc&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **す**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 13.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/brGPXYI3TA0?playlist=brGPXYI3TA0&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **せ**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 14.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/po9Hnl2Su0Y?playlist=po9Hnl2Su0Y&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **そ**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 15.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zFDTkmZ5juk?playlist=zFDTkmZ5juk&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 <!-- tabs:end -->
 <!-- div:right-panel -->
@@ -207,38 +162,23 @@
 
 #### **た**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 16.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EsqCp3hTKF0?playlist=EsqCp3hTKF0&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **ち**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 17.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mqxQ3kiWl2c?playlist=mqxQ3kiWl2c&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **つ**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 18.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vnFCgodTEVA?playlist=vnFCgodTEVA&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **て**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 19.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yAoXpbshhuw?playlist=yAoXpbshhuw&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **と**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 20.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TFjexl3S2NA?playlist=TFjexl3S2NA&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 <!-- tabs:end -->
 <!-- div:right-panel -->
@@ -274,38 +214,23 @@
 
 #### **な**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 21.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **に**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 22.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **ぬ**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 23.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **ね**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 24.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **の**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 25.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 <!-- tabs:end -->
 <!-- div:right-panel -->
@@ -342,38 +267,23 @@
 
 #### **は**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 26.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **ひ**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 27.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **ふ**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 28.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **へ**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 29.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **ほ**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 30.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 <!-- tabs:end -->
 <!-- div:right-panel -->
@@ -409,38 +319,22 @@
 
 #### **ま**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 31.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **み**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 32.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **む**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 33.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 #### **め**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 34.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **も**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 35.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 <!-- tabs:end -->
 <!-- div:right-panel -->
@@ -477,24 +371,15 @@
 
 #### **や**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 36.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **ゆ**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 37.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **よ**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 38.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 <!-- tabs:end -->
 <!-- div:right-panel -->
@@ -526,38 +411,23 @@
 
 #### **ら**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 39.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **り**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 40.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **る**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 41.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **れ**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 42.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **ろ**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 43.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 <!-- tabs:end -->
 <!-- div:right-panel -->
@@ -600,24 +470,15 @@
 
 #### **わ**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 44.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **を**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 45.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 #### **ん**
 
-<video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 46.mp4" type="video/mp4">
-                                        Your browser does not support the video embed.
-                                         </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoID?playlist=videoID&controls=0&loop=1&modestbranding=1&disablekb=1&color=white&rel=0" title="YouTube video player" frameborder="0" allow="encrypted-media;"></iframe>
 
 <!-- tabs:end -->
 <!-- div:right-panel -->
