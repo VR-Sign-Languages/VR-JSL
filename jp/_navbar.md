@@ -1,1 +1,1 @@
-* [EN](/VRSignLanguageDictionary/en/home.md)
+* [EN](/en/home.md)

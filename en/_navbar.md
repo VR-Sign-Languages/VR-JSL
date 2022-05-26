@@ -1,1 +1,1 @@
-* [日本](/VRSignLanguageDictionary/jp/home.md)
+* [日本](/jp/home.md)
