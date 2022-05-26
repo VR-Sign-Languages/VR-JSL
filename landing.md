@@ -3,4 +3,4 @@ Please select your language.
 
 言語を選択してください。
 
-<a href="/#/en/home.md">English</a> <a href="/#/jp/home.md">日本</a>
+[English](/en/home.md) [日本](/jp/home.md)
