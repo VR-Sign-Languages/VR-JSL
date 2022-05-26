@@ -7,35 +7,35 @@
 #### **あ**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 1.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 1.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
   
 #### **い**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 2.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 2.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **う**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 3.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 3.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **え**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 4.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 4.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **お**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 5.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 5.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
@@ -73,35 +73,35 @@
 #### **か**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 6.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 6.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **き**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 7.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 7.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **く**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 8.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 8.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **け**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 9.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 9.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **こ**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 10.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 10.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
@@ -139,35 +139,35 @@
 #### **さ**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 11.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 11.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **し**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 12.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 12.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **す**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 13.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 13.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **せ**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 14.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 14.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **そ**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 15.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 15.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
@@ -208,35 +208,35 @@
 #### **た**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 16.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 16.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **ち**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 17.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 17.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **つ**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 18.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 18.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **て**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 19.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 19.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **と**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 20.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 20.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
@@ -275,35 +275,35 @@
 #### **な**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 21.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 21.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **に**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 22.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 22.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **ぬ**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 23.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 23.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **ね**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 24.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 24.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **の**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 25.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 25.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
@@ -343,35 +343,35 @@
 #### **は**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 26.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 26.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **ひ**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 27.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 27.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **ふ**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 28.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 28.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **へ**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 29.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 29.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **ほ**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 30.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 30.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
@@ -410,35 +410,35 @@
 #### **ま**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 31.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 31.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **み**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 32.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 32.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **む**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 33.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 33.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **め**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 34.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 34.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **も**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 35.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 35.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
@@ -478,21 +478,21 @@
 #### **や**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 36.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 36.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **ゆ**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 37.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 37.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **よ**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 38.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 38.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
@@ -527,35 +527,35 @@
 #### **ら**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 39.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 39.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **り**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 40.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 40.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **る**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 41.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 41.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **れ**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 42.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 42.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **ろ**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 43.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 43.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
@@ -601,21 +601,21 @@
 #### **わ**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 44.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 44.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **を**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 45.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 45.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 
 #### **ん**
 
 <video width="320" height="240" loop controls muted>
-                                        <source src="/VRSignLanguageDictionary/assets/JSL Alphabets 46.mp4" type="video/mp4">
+                                        <source src="/VRSignLanguageDictionary/assets/vidoes/JSL Alphabets 46.mp4" type="video/mp4">
                                         Your browser does not support the video embed.
                                          </video>
 

@@ -1,3 +1,3 @@
-* [Home](home.md)
-* [JSL](jsl/intro.md)
-	* [Fingerspell](jsl/fingerspell.md)
+* [Home](/home.md)
+* [JSL](/jsl/intro.md)
+	* [Fingerspell](/jsl/fingerspell.md)
