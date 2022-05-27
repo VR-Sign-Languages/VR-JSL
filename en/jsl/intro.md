@@ -1,3 +1,3 @@
 # Japanese Sign Language
 
-[Alphabets](alphabets.md)
+[Kana](kana.md)

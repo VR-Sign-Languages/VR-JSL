@@ -1,23 +1,23 @@
 # JSL Kana
 
-[あ](/kana/a.md) [い](/kana/i.md) [う](/kana/u.md) [え](/kana/e.md) [お](/kana/o.md)
+[あ](/en/jsl/kana/a.md) [い](/en/jsl/kana/i.md) [う](/en/jsl/kana/u.md) [え](/en/jsl/kana/e.md) [お](/en/jsl/kana/o.md)
 
-[か](/kana/ka.md) [き](/kana/ki.md) [く](/kana/ku.md) [け](/kana/ke.md) [こ](/kana/ko.md)
+[か](/en/jsl/kana/ka.md) [き](/en/jsl/kana/ki.md) [く](/en/jsl/kana/ku.md) [け](/en/jsl/kana/ke.md) [こ](/en/jsl/kana/ko.md)
 
-[さ](/kana/sa.md) [し](/kana/shi.md) [す](/kana/su.md) [せ](/kana/se.md) [そ](/kana/so.md)
+[さ](/en/jsl/kana/sa.md) [し](/en/jsl/kana/shi.md) [す](/en/jsl/kana/su.md) [せ](/en/jsl/kana/se.md) [そ](/en/jsl/kana/so.md)
 
-[た](/kana/ta.md) [ち](/kana/chi.md) [つ](/kana/tsu.md) [て](/kana/te.md) [と](/kana/to.md)
+[た](/en/jsl/kana/ta.md) [ち](/en/jsl/kana/chi.md) [つ](/en/jsl/kana/tsu.md) [て](/en/jsl/kana/te.md) [と](/en/jsl/kana/to.md)
 
-[な](/kana/na.md) [に](/kana/ni.md) [ぬ](/kana/nu.md) [ね](/kana/ne.md) [の](/kana/no.md)
+[な](/en/jsl/kana/na.md) [に](/en/jsl/kana/ni.md) [ぬ](/en/jsl/kana/nu.md) [ね](/en/jsl/kana/ne.md) [の](/en/jsl/kana/no.md)
 
-[は](/kana/ha.md) [ひ](/kana/hi.md) [ふ](/kana/fu.md) [へ](/kana/fe.md) [ほ](/kana/fo.md)
+[は](/en/jsl/kana/ha.md) [ひ](/en/jsl/kana/hi.md) [ふ](/en/jsl/kana/fu.md) [へ](/en/jsl/kana/fe.md) [ほ](/en/jsl/kana/fo.md)
 
-[ま](/kana/ma.md) [み](/kana/mi.md) [む](/kana/mu.md) [め](/kana/me.md) [も](/kana/mo.md)
+[ま](en/jsl/kana/ma.md) [み](/en/jsl/kana/mi.md) [む](/en/jsl/kana/mu.md) [め](/en/jsl/kana/me.md) [も](/en/jsl/kana/mo.md)
 
-[や](/kana/ya.md) [ゆ](/kana/yu.md) [よ](/kana/yo.md)
+[や](/en/jsl/kana/ya.md) [ゆ](/en/jsl/kana/yu.md) [よ](en/jsl/kana/yo.md)
 
-[ら](/kana/ra.md) [り](/kana/ri.md) [る](/kana/ru.md) [れ](/kana/re.md) [ろ](/kana/ro.md)
+[ら](/en/jsl/kana/ra.md) [り](/en/jsl/kana/ri.md) [る](/en/jsl/kana/ru.md) [れ](/en/jsl/kana/re.md) [ろ](/en/jsl/kana/ro.md)
 
-[わ](/kana/wa.md) [を](/alphabets/wo.md)
+[わ](/en/jsl/kana/wa.md) [を](/en/jsl/kana/wo.md)
 
-[ん](/kana/nm.md)
+[ん](en/jsl/kana/nm.md)
