@@ -1,23 +1,23 @@
 # JSL 仮名
 
-[あ](/alphabets/a.md) [い](/alphabets/i.md) [う](/alphabets/u.md) [え](/alphabets/e.md) [お](/alphabets/o.md)
+[あ](/kana/a.md) [い](/kana/i.md) [う](/kana/u.md) [え](/kana/e.md) [お](/kana/o.md)
 
-[か](/alphabets/ka.md) [き](/alphabets/ki.md) [く](/alphabets/ku.md) [け](/alphabets/ke.md) [こ](/alphabets/ko.md)
+[か](/kana/ka.md) [き](/kana/ki.md) [く](/kana/ku.md) [け](/kana/ke.md) [こ](/kana/ko.md)
 
-[さ](/alphabets/sa.md) [し](/alphabets/shi.md) [す](/alphabets/su.md) [せ](/alphabets/se.md) [そ](/alphabets/so.md)
+[さ](/kana/sa.md) [し](/kana/shi.md) [す](/kana/su.md) [せ](/kana/se.md) [そ](/kana/so.md)
 
-[た](/alphabets/ta.md) [ち](/alphabets/chi.md) [つ](/alphabets/tsu.md) [て](/alphabets/te.md) [と](/alphabets/to.md)
+[た](/kana/ta.md) [ち](/kana/chi.md) [つ](/kana/tsu.md) [て](/kana/te.md) [と](/kana/to.md)
 
-[な](/alphabets/na.md) [に](/alphabets/ni.md) [ぬ](/alphabets/nu.md) [ね](/alphabets/ne.md) [の](/alphabets/no.md)
+[な](/kana/na.md) [に](/kana/ni.md) [ぬ](/kana/nu.md) [ね](/kana/ne.md) [の](/kana/no.md)
 
-[は](/alphabets/ha.md) [ひ](/alphabets/hi.md) [ふ](/alphabets/fu.md) [へ](/alphabets/fe.md) [ほ](/alphabets/fo.md)
+[は](/kana/ha.md) [ひ](/kana/hi.md) [ふ](/kana/fu.md) [へ](/kana/fe.md) [ほ](/kana/fo.md)
 
-[ま](/alphabets/ma.md) [み](/alphabets/mi.md) [む](/alphabets/mu.md) [め](/alphabets/me.md) [も](/alphabets/mo.md)
+[ま](/kana/ma.md) [み](/kana/mi.md) [む](/kana/mu.md) [め](/kana/me.md) [も](/kana/mo.md)
 
-[や](/alphabets/ya.md) [ゆ](/alphabets/yu.md) [よ](/alphabets/yo.md)
+[や](/kana/ya.md) [ゆ](/kana/yu.md) [よ](/kana/yo.md)
 
-[ら](/alphabets/ra.md) [り](/alphabets/ri.md) [る](/alphabets/ru.md) [れ](/alphabets/re.md) [ろ](/alphabets/ro.md)
+[ら](/kana/ra.md) [り](/kana/ri.md) [る](/kana/ru.md) [れ](/kana/re.md) [ろ](/kana/ro.md)
 
-[わ](/alphabets/wa.md) [を](/alphabets/wo.md)
+[わ](/kana/wa.md) [を](/alphabets/wo.md)
 
-[ん](/alphabets/nm.md)
+[ん](/kana/nm.md)
