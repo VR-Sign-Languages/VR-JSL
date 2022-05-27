@@ -1,3 +1,3 @@
 * [Home](/en/home.md)
 * [JSL](/en/jsl/intro.md)
-	* [Alphabets](/en/jsl/fingerspell.md)
+	* [Kana](/en/jsl/kana.md)

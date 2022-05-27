@@ -1,3 +1,3 @@
-# Japanese Sign Language
+# 日本手話
 
-[Fingerspell](fingerspell.md)
+[仮名](kana.md)

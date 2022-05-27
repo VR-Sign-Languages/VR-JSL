@@ -1,3 +1,3 @@
 # Japanese Sign Language
 
-[Fingerspell](fingerspell.md)
+[Alphabets](alphabets.md)
