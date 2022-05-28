@@ -46,7 +46,7 @@ You may see the following on some avatars:
 
 | <img src="/VRSignLanguageDictionary/assets/images/wmr-gesture-rocknroll.png" height="100" /> |
 |-|
-| <img src="/VRSignLanguageDictionary/assets/images/rocknroll_right.png" height="100" /> |
+| <img src="/VRSignLanguageDictionary/assets/images/rocknroll-var_right.png" height="100" /> |
 
 In many sign languages, those often use **DOMINANT** and **SUPPORT** hands. For example, your dominant hand is your right and your support hand your left. Also, this website will use the right hand as dominant hand, if your dominant hand is your left, just assume the opposites of dominant and support hands. *Make sure you use correct hands for signing.*
 
@@ -74,7 +74,7 @@ You may see the following on some avatars:
 
 | <img src="/VRSignLanguageDictionary/assets/images/vive-gesture-rocknroll.png" height="100" /> |
 |-|
-| <img src="/VRSignLanguageDictionary/assets/images/rocknroll_right.png" height="100" /> |
+| <img src="/VRSignLanguageDictionary/assets/images/rocknroll-var_right.png" height="100" /> |
 
 In many sign languages, those often use **DOMINANT** and **SUPPORT** hands. For example, your dominant hand is your right and your support hand your left. Also, this website will use the right hand as dominant hand, if your dominant hand is your left, just assume the opposites of dominant and support hands. *Make sure you use correct hands for signing.*
 
@@ -96,13 +96,13 @@ Those are your gesture toggles:
 
 | <img src="/VRSignLanguageDictionary/assets/images/idle_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhand_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/victory_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/point_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fingergun_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/thumbsup_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/rocknroll_right.png" height="100" /> |
 |-|-|-|-|-|-|-|-|
-| <img src="/VRSignLanguageDictionary/assets/images/idle-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhan-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/victory-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/point-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fingergun-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/thumbsup-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/rocknroll-meta-right.png" height="100" /> |
+| <img src="/VRSignLanguageDictionary/assets/images/idle-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhand-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/victory-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/point-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fingergun-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/thumbsup-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/rocknroll-meta-right.png" height="100" /> |
 
 You may see the following on some avatars:
 
 | <img src="/VRSignLanguageDictionary/assets/images/rocknroll-meta-right.png" height="100" /> |
 |-|
-| <img src="/VRSignLanguageDictionary/assets/images/rocknroll_right.png" height="100" /> |
+| <img src="/VRSignLanguageDictionary/assets/images/rocknroll-var_right.png" height="100" /> |
 
 In many sign languages, those often use **DOMINANT** and **SUPPORT** hands. For example, your dominant hand is your right and your support hand your left. Also, this website will use the right hand as dominant hand, if your dominant hand is your left, just assume the opposites of dominant and support hands. *Make sure you use correct hands for signing.*
 

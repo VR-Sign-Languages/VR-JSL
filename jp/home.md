@@ -15,7 +15,7 @@
 > * ZadeTheCheetah
 
 > [!ATTENTION]
-> 免責事項：ここにあるもののいくつかは、デボンの手話リソースウェブサイトに基づいており、および/またはコピーされています。 [[Link]](https://vrsl.withdevon.xyz)
+> 免責事項：ここにあるもののいくつかは、デボンの手話リソースウェブサイトに基づいており、および/またはコピーされています。[[Link]](https://vrsl.withdevon.xyz)
 
 VRChatでは、VRでの手話の使い方に大きく影響するのは以下の2点です： **コントローラー**の種類と**利き手**. コントローラーの種類によって、できるジェスチャーの種類と、ゲーム内での表示方法が異なります。利き手によって、手話の各パーツに使う手が変わります。ゲーム内では、8つのハンドジェスチャーしかありません。
 
@@ -44,7 +44,7 @@ VRChatでは、VRでの手話の使い方に大きく影響するのは以下の
 
 | <img src="/VRSignLanguageDictionary/assets/images/wmr-gesture-rocknroll.png" height="100" /> |
 |-|
-| <img src="/VRSignLanguageDictionary/assets/images/rocknroll_right.png" height="100" /> |
+| <img src="/VRSignLanguageDictionary/assets/images/rocknroll-var_right.png" height="100" /> |
 
 多くの手話では、**ドミナント**と**サポート**の手を使うことが多い。例えば、利き手は右手、支え手は左手です。また、このサイトでは右手を利き手としていますが、利き手が左手の場合は、利き手と支え手の反対を想定すればよいのです。*サインをするときは、必ず正しい手で行ってください。*
 
@@ -72,7 +72,7 @@ VRChatでは、VRでの手話の使い方に大きく影響するのは以下の
 
 | <img src="/VRSignLanguageDictionary/assets/images/vive-gesture-rocknroll.png" height="100" /> |
 |-|
-| <img src="/VRSignLanguageDictionary/assets/images/rocknroll_right.png" height="100" /> |
+| <img src="/VRSignLanguageDictionary/assets/images/rocknroll-var_right.png" height="100" /> |
 
 多くの手話では、**ドミナント**と**サポート**の手を使うことが多い。例えば、利き手は右手、支え手は左手です。また、このサイトでは右手を利き手としていますが、利き手が左手の場合は、利き手と支え手の反対を想定すればよいのです。*サインをするときは、必ず正しい手で行ってください。*
 
@@ -94,13 +94,13 @@ Your controller type is **Meta Touch (formerly Oculus Touch)**, correct? This we
 
 | <img src="/VRSignLanguageDictionary/assets/images/idle_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhand_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/victory_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/point_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fingergun_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/thumbsup_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/rocknroll_right.png" height="100" /> |
 |-|-|-|-|-|-|-|-|
-| <img src="/VRSignLanguageDictionary/assets/images/idle-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhan-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/victory-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/point-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fingergun-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/thumbsup-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/rocknroll-meta-right.png" height="100" /> |
+| <img src="/VRSignLanguageDictionary/assets/images/idle-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhand-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/victory-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/point-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fingergun-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/thumbsup-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/rocknroll-meta-right.png" height="100" /> |
 
 一部のアバターで以下のように表示されることがあります：
 
 | <img src="/VRSignLanguageDictionary/assets/images/rocknroll-meta-right.png" height="100" /> |
 |-|
-| <img src="/VRSignLanguageDictionary/assets/images/rocknroll_right.png" height="100" /> |
+| <img src="/VRSignLanguageDictionary/assets/images/rocknroll-var_right.png" height="100" /> |
 
 多くの手話では、**ドミナント**と**サポート**の手を使うことが多い。例えば、利き手は右手、支え手は左手です。また、このサイトでは右手を利き手としていますが、利き手が左手の場合は、利き手と支え手の反対を想定すればよいのです。*サインをするときは、必ず正しい手で行ってください。*
 
