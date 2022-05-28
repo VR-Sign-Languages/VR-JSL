@@ -88,7 +88,7 @@ VRChatでは、VRでの手話の使い方に大きく影響するのは以下の
 
 #### --Meta Touch--
 
-Your controller type is **Meta Touch (formerly Oculus Touch)**, correct? This website will remember your selection until next reload.
+コントローラーの種類は**Meta Touch（旧Oculus Touch）**ですね？このウェブサイトは、次のリロードまであなたの選択を記憶します。
 
 これがジェスチャートグルです：
 
