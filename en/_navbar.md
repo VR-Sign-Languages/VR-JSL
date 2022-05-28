@@ -1,1 +1,3 @@
-* [日本](/jp/home.md)
+* [Home](/en/home.md)
+* |
+* [🇯🇵](/jp/home.md)

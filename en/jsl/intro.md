@@ -1,3 +1,3 @@
 # Japanese Sign Language
 
-[Kana](kana.md)
+Work in progress

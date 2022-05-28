@@ -1,1 +1,3 @@
-* [EN](/en/home.md)
+* [TOP](/jp/home.md)
+* |
+* [🇺🇸](/en/home.md)

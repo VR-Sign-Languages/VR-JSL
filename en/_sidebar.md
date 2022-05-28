@@ -1,3 +1,4 @@
-* [Home](/en/home.md)
-* [JSL](/en/jsl/intro.md)
-	* [Kana](/en/jsl/kana.md)
+* Japanese Sign Language
+* [> Introduction](/en/jsl/intro.md)
+* [> Kana in JSL](/en/jsl/kana.md)
+* [> Search by Kana](/en/jsl/sign/category-kana.md)
