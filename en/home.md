@@ -1,20 +1,13 @@
 # Welcome to VR Sign Language Dictionary
 
+
+> [!NOTE]
+> This is an attempt to create the dictionary of VR American Sign Language (VR-ASL) and VR Japanese Sign Language (VR-JSL). You can use this dictionary for references only.
+
 > [!WARNING]
 > * If something here is documented incorrectly, please click the GitHub logo on top left of the page. Then, report the issue or submit pull request containing corrections.
 > * Please don't serve this as an authority on sign languages. **Instead, if a trusted member of the Deaf / HoH community tells you otherwise, pay attention to them over what is documented here.**
 > * This dictionary is still a work in progress. A lot or some things will be changed in the future.
-
-> [!NOTE]
-> This is an attempt to create the dictionary of VR American Sign Language (VR-ASL) and VR Japanese Sign Language (VR-JSL). You can use this dictionary for references only.
-> 
-> This dictionary is managed by a team of editors from Deaf / HoH community in VRChat. Anyone can contribute by using issues and pull requests fuctions on GitHub.
-> 
-> Current editors:
-> 
-> * Amarante
-> * Rafael
-> * ZadeTheCheetah
 
 > [!ATTENTION]
 > Disclaimer: Some of stuff here is based on and/or copied from Devon's Sign Language resource website. [[Link]](https://vrsl.withdevon.xyz)
@@ -23,9 +16,19 @@ In VRChat, there are two main things that affect how you use sign languages in V
 
 The following eight gestures look like those:
 
-<img src="/VRSignLanguageDictionary/assets/images/idle_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/openhand_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/victory_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/point_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/fingergun_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/thumbsup_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/fist_right.png" height="50" /><img src="/VRSignLanguageDictionary/assets/images/rocknroll_right.png" height="50" />
+```mermaid
+	flowchart TB
+		A1("<img src='/VRSignLanguageDictionary/assets/images/idle_right.png'; height='100' title='Idle' />")
 
-(Idle, Open, Victory, Point, Finger Gun, Thumbs Up, Fist, Rock 'n' Roll)
+		B1("<img src='/VRSignLanguageDictionary/assets/images/openhand_right.png' height='100' title='Open Hand' />")
+	
+		C1("<img src='/VRSignLanguageDictionary/assets/images/victory_right.png' height='100' title='Victory' />")	
+		D1("<img src='/VRSignLanguageDictionary/assets/images/point_right.png' height='100' title='Point' />")	
+		E1("<img src='/VRSignLanguageDictionary/assets/images/fingergun_right.png' height='100' title='Finger Gun' />")	
+		F1("<img src='/VRSignLanguageDictionary/assets/images/thumbsup_right.png' height='100' title='Thumbs Up' />")	
+		G1("<img src='/VRSignLanguageDictionary/assets/images/fist_right.png' height='100' title='Fist' />")	
+		H1("<img src='/VRSignLanguageDictionary/assets/images/rocknroll_right.png' height='100' title='Rock 'n' Roll' />")
+```
 
 Before you start browsing the dictionary, please select your controller type below and get detailed instructions on how you can sign while in VRChat.
 
@@ -38,23 +41,32 @@ Your controller type is **Windows Mixed Reality**, correct? This website will re
 
 Those are your gesture toggles:
 
-| | | | | |
-|-|-|-|-|-|
-| <img src="/VRSignLanguageDictionary/assets/images/idle_right.png" height="50" /><br><img src="/VRSignLanguageDictionary/assets/images/wmr-noinput.png" height="50" /> | <img src="/VRSignLanguageDictionary/assets/images/wmr-gesture-left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/wmr-gesture-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/wmr-gripgesture-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/wmr-triggergesture-right.png" height="100" /> |
+```mermaid
+	flowchart TB
+		A1("<img src='/VRSignLanguageDictionary/assets/images/idle_right.png' height='50' /><br><img src='/VRSignLanguageDictionary/assets/images/wmr-noinput.png' height='50' />")
+		
+		B1("<img src='/VRSignLanguageDictionary/assets/images/wmr-gesture-left.png' height='100' />")
+		
+		C1("<img src='/VRSignLanguageDictionary/assets/images/wmr-gesture-right.png' height='100' />")
+		
+		D1("<img src='/VRSignLanguageDictionary/assets/images/wmr-triggergesture-right.png' height='100' />")
+```
 
 You may see the following on some avatars:
 
-| <img src="/VRSignLanguageDictionary/assets/images/wmr-gesture-rocknroll.png" height="100" /> |
-|-|
-| <img src="/VRSignLanguageDictionary/assets/images/rocknroll-var_right.png" height="100" /> |
+```mermaid
+	flowchart TB
+		A1("<img src='/VRSignLanguageDictionary/assets/images/rocknroll-var_right.png' height='50' /><br><img src='/VRSignLanguageDictionary/assets/images/wmr-gesture-rocknroll.png' height='50' />")
+```
 
 In many sign languages, those often use **DOMINANT** and **SUPPORT** hands. For example, your dominant hand is your right and your support hand your left. Also, this website will use the right hand as dominant hand, if your dominant hand is your left, just assume the opposites of dominant and support hands. *Make sure you use correct hands for signing.*
 
 On this website, we will determine the **DOMINANT (right)** hand as colored black hand and **SUPPORT (left)** hand as colored gray as shown visually:
 
-| <img src="/VRSignLanguageDictionary/assets/images/fist_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist_right.png" height="100" /> |
-|-|-|
-| <img src="/VRSignLanguageDictionary/assets/images/openhand_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhand_right.png" height="100" /> |
+```mermaid
+	flowchart LR
+		A1("<img src='/VRSignLanguageDictionary/assets/images/fist_left.png'; height='100' /><img src='/VRSignLanguageDictionary/assets/images/fist_right.png'; height='100' />") --> B1("<img src='/VRSignLanguageDictionary/assets/images/openhand_left.png' height='100' /><img src='/VRSignLanguageDictionary/assets/images/openhand_right.png' height='100' />")
+```
 
 Don't mistake the support hand as less important, it actually makes a huge difference in how you're signing. Remember those!
 
@@ -66,23 +78,32 @@ Your controller type is **Wive Wands**, correct? This website will remember your
 
 Those are your gesture toggles:
 
-| | | | | |
-|-|-|-|-|-|
-| <img src="/VRSignLanguageDictionary/assets/images/idle_right.png" height="50" /><br><img src="/VRSignLanguageDictionary/assets/images/vive-noinput.png" height="50" /> | <img src="/VRSignLanguageDictionary/assets/images/vive-gesture-left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/vive-gesture-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/vive-gripgesture-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/vive-triggergesture-right.png" height="100" /> |
+```mermaid
+	flowchart TB
+		A1("<img src='/VRSignLanguageDictionary/assets/images/idle_right.png' height='50' /><br><img src='/VRSignLanguageDictionary/assets/images/vive-noinput.png' height='50' />")
+		
+		B1("<img src='/VRSignLanguageDictionary/assets/images/vive-gesture-left.png' height='100' />")
+		
+		C1("<img src='/VRSignLanguageDictionary/assets/images/vive-gesture-right.png' height='100' />")
+		
+		D1("<img src='/VRSignLanguageDictionary/assets/images/vive-triggergesture-right.png' height='100' />")
+```
 
 You may see the following on some avatars:
 
-| <img src="/VRSignLanguageDictionary/assets/images/vive-gesture-rocknroll.png" height="100" /> |
-|-|
-| <img src="/VRSignLanguageDictionary/assets/images/rocknroll-var_right.png" height="100" /> |
+```mermaid
+	flowchart TB
+		A1("<img src='/VRSignLanguageDictionary/assets/images/rocknroll-var_right.png' height='50' /><br><img src='/VRSignLanguageDictionary/assets/images/vive-gesture-rocknroll.png' height='50' />")
+```
 
 In many sign languages, those often use **DOMINANT** and **SUPPORT** hands. For example, your dominant hand is your right and your support hand your left. Also, this website will use the right hand as dominant hand, if your dominant hand is your left, just assume the opposites of dominant and support hands. *Make sure you use correct hands for signing.*
 
 On this website, we will determine the **DOMINANT (right)** hand as colored black hand and **SUPPORT (left)** hand as colored gray as shown visually:
 
-| <img src="/VRSignLanguageDictionary/assets/images/fist_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist_right.png" height="100" /> |
-|-|-|
-| <img src="/VRSignLanguageDictionary/assets/images/openhand_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhand_right.png" height="100" /> |
+```mermaid
+	flowchart LR
+		A1("<img src='/VRSignLanguageDictionary/assets/images/fist_left.png'; height='100' /><img src='/VRSignLanguageDictionary/assets/images/fist_right.png'; height='100' />") --> B1("<img src='/VRSignLanguageDictionary/assets/images/openhand_left.png' height='100' /><img src='/VRSignLanguageDictionary/assets/images/openhand_right.png' height='100' />")
+```
 
 Don't mistake the support hand as less important, it actually makes a huge difference in how you're signing. Remember those!
 
@@ -94,23 +115,40 @@ Your controller type is **Meta Touch (formerly Oculus Touch)**, correct? This we
 
 Those are your gesture toggles:
 
-| <img src="/VRSignLanguageDictionary/assets/images/idle_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhand_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/victory_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/point_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fingergun_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/thumbsup_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist_right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/rocknroll_right.png" height="100" /> |
-|-|-|-|-|-|-|-|-|
-| <img src="/VRSignLanguageDictionary/assets/images/idle-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhand-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/victory-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/point-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fingergun-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/thumbsup-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist-meta-right.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/rocknroll-meta-right.png" height="100" /> |
+```mermaid
+	flowchart TB
+		A1("<img src='/VRSignLanguageDictionary/assets/images/idle_right.png'; height='100' /><br><img src='/VRSignLanguageDictionary/assets/images/idle-meta-right.png' height='50' />")
+
+		B1("<img src='/VRSignLanguageDictionary/assets/images/openhand_right.png' height='100' /><br><img src='/VRSignLanguageDictionary/assets/images/openhand-meta-right.png' height='50' />")
+	
+		C1("<img src='/VRSignLanguageDictionary/assets/images/victory_right.png' height='100' /><br><img src='/VRSignLanguageDictionary/assets/images/victory-meta-right.png' height='50' />")	
+		
+		D1("<img src='/VRSignLanguageDictionary/assets/images/point_right.png' height='100' /><br><img src='/VRSignLanguageDictionary/assets/images/point-meta-right.png' height='50' />")	
+		
+		E1("<img src='/VRSignLanguageDictionary/assets/images/fingergun_right.png' height='100' /><br><img src='/VRSignLanguageDictionary/assets/images/fingergun-meta-right.png' height='50' />")	
+		
+		F1("<img src='/VRSignLanguageDictionary/assets/images/thumbsup_right.png' height='100' /><br><img src='/VRSignLanguageDictionary/assets/images/thumbsup-meta-right.png' height='50' />")
+		
+		G1("<img src='/VRSignLanguageDictionary/assets/images/fist_right.png' height='100' /><br><img src='/VRSignLanguageDictionary/assets/images/fist-meta-right.png' height='50' />")
+		
+		H1("<img src='/VRSignLanguageDictionary/assets/images/rocknroll_right.png' height='100' /><br><img src='/VRSignLanguageDictionary/assets/images/rocknroll-meta-right.png' height='50' />")
+```
 
 You may see the following on some avatars:
 
-| <img src="/VRSignLanguageDictionary/assets/images/rocknroll-meta-right.png" height="100" /> |
-|-|
-| <img src="/VRSignLanguageDictionary/assets/images/rocknroll-var_right.png" height="100" /> |
+```mermaid
+	flowchart TB
+		A1("<img src='/VRSignLanguageDictionary/assets/images/rocknroll-var_right.png' height='50' /><br><img src='/VRSignLanguageDictionary/assets/images/rocknroll-meta-right.png' height='50' />")
+```
 
 In many sign languages, those often use **DOMINANT** and **SUPPORT** hands. For example, your dominant hand is your right and your support hand your left. Also, this website will use the right hand as dominant hand, if your dominant hand is your left, just assume the opposites of dominant and support hands. *Make sure you use correct hands for signing.*
 
 On this website, we will determine the **DOMINANT (right)** hand as colored black hand and **SUPPORT (left)** hand as colored gray as shown visually:
 
-| <img src="/VRSignLanguageDictionary/assets/images/fist_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist_right.png" height="100" /> |
-|-|-|
-| <img src="/VRSignLanguageDictionary/assets/images/openhand_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhand_right.png" height="100" /> |
+```mermaid
+	flowchart LR
+		A1("<img src='/VRSignLanguageDictionary/assets/images/fist_left.png'; height='100' /><img src='/VRSignLanguageDictionary/assets/images/fist_right.png'; height='100' />") --> B1("<img src='/VRSignLanguageDictionary/assets/images/openhand_left.png' height='100' /><img src='/VRSignLanguageDictionary/assets/images/openhand_right.png' height='100' />")
+```
 
 Don't mistake the support hand as less important, it actually makes a huge difference in how you're signing. Remember those!
 
@@ -124,15 +162,16 @@ Those controllers are revolved around accurate finger tracking unlike other cont
 
 Before moving forward, ensure that **Gesture Mode** is turned off before signing with a conversation partner. You can press the left thumbstick to disable the **Gesture Mode**.
 
-<img src="/VRSignLanguageDictionary/assets/images/gesture-toggle.png" height="200" />
+<img src="/VRSignLanguageDictionary/assets/images/gesture-toggle.png" width="auto" />
 
 In many sign languages, those often use **DOMINANT** and **SUPPORT** hands. For example, your dominant hand is your right and your support hand your left. Also, this website will use the right hand as dominant hand, if your dominant hand is your left, just assume the opposites of dominant and support hands. *Make sure you use correct hands for signing.*
 
 On this website, we will determine the **DOMINANT (right)** hand as colored black hand and **SUPPORT (left)** hand as colored gray as shown visually:
 
-| <img src="/VRSignLanguageDictionary/assets/images/fist_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist_right.png" height="100" /> |
-|-|-|
-| <img src="/VRSignLanguageDictionary/assets/images/openhand_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhand_right.png" height="100" /> |
+```mermaid
+	flowchart LR
+		A1("<img src='/VRSignLanguageDictionary/assets/images/fist_left.png'; height='100' /><img src='/VRSignLanguageDictionary/assets/images/fist_right.png'; height='100' />") --> B1("<img src='/VRSignLanguageDictionary/assets/images/openhand_left.png' height='100' /><img src='/VRSignLanguageDictionary/assets/images/openhand_right.png' height='100' />")
+```
 
 Don't mistake the support hand as less important, it actually makes a huge difference in how you're signing. Remember those!
 

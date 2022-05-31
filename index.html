@@ -7,6 +7,7 @@
   		<meta charset="UTF-8">
         <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css" />
         <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+        
     </head>
 	<body>
 		<div id="app">Please wait...</div>
@@ -28,7 +29,7 @@
       			loadSidebar: true,
       			loadNavbar: true,
                 loadFooter: '_footer.md',
-      			mergeNavbar: true,
+      			mergeNavbar: false,
       			auto2top: true,
       			relativePath: true,
       			name: 'Dictionary Index',
@@ -105,7 +106,14 @@
                     formatUpdated: "{YYYY}/{MM}/{DD}",
                     whereToPlace: "bottom",
                 },
-    		}
+    		};
+            mermaid.initialize({
+                startOnLoad: true,
+                "securityLevel": "loose",
+                "flowchart": {
+                    "htmlLables": true,
+                },
+            });
   		</script>
         
   		<style>
@@ -116,6 +124,8 @@
 		</style>
         
   		<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+        <script src="//unpkg.com/mermaid/dist/mermaid.js"></script>
+        <script src="//unpkg.com/docsify-mermaid@latest/dist/docsify-mermaid.js"></script>
   		<script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
         <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
         <script src="//cdn.jsdelivr.net/gh/TaQini/docsify-twemoji@master/twemoji.min.js"></script>
@@ -126,5 +136,6 @@
         <script src="https://cdn.jsdelivr.net/npm/docsify-select@1"></script>
         <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
         <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+        <script src="https://unpkg.com/@h-hg/docsify-image-caption/dist/docsify-image-caption.min.js"></script>
 	</body>
 </html>

@@ -1,6 +1,6 @@
 # JSL Kana
 
-| | | | | |
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |-|-|-|-|-|
 | [あ](/en/jsl/kana/あ.md) | [い](/en/jsl/kana/い.md) | [う](/en/jsl/kana/う.md) | [え](/en/jsl/kana/え.md) | [お](/en/jsl/kana/お.md) |
 | [か](/en/jsl/kana/か.md) | [き](/en/jsl/kana/き.md) | [く](/en/jsl/kana/く.md) | [け](/en/jsl/kana/け.md) | [こ](/en/jsl/kana/こ.md) |
