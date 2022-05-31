@@ -4,14 +4,7 @@ This dictionary is being maintained by a team of Helping Hands volunteers. Every
 
 Current team:
 
-```mermaid
-	flowchart TB
-		A1("<img src='/VRSignLanguageDictionary/assets/images/contributors/Amarante.png'; height='150' title='Amarante' />")
-
-		B1("<img src='/VRSignLanguageDictionary/assets/images/contributors/Rafael.png' height='150' title='Rafael' />")
-	
-		C1("<img src='/VRSignLanguageDictionary/assets/images/contributors/Zade.png' height='150' title='Zade' />")
-```
+<img src="/VRSignLanguageDictionary/assets/images/contributors/Amarante.png" height="150" title="Amarante" /> <img src="/VRSignLanguageDictionary/assets/images/contributors/Rafael.png" height="150" title="ラファエル Rafael" /> <img src="/VRSignLanguageDictionary/assets/images/contributors/Zade.png" height="150" title="ZadeTheCheetah" />
 
 Current GitHub contributors:
 
