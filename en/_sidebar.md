@@ -1,5 +1,5 @@
 # <div style="text-align: center;">JSL Dictionary Index</div>
-* [Introduction](/en/intro.md)
+* [Home](/en/home.md)
 * [Kana in JSL](/en/kana.md)
 	* [あ](/en/kana/あ.md)
 	* [い](/en/kana/い.md)
