@@ -1,4 +1,4 @@
-# VR Sign Language Dictionary ・ VR手話辞典
+# VR Japanese Sign Language Dictionary ・ VR日本手話辞典
 Please select your language.
 <br>
 言語を選択してください。
