@@ -44,9 +44,9 @@ VRChatでは、VRでの手話の使い方に大きく影響するのは以下の
 
 本サイトでは、視覚的にわかるように、**ドミナント**（右手）を黒色、**サポート**（左手）を灰色として判定しています：
 
-| <img src="/assets/images/fist_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist_right.png" height="100" /> |
+| <img src="/assets/images/fist_left.png" height="100" /> | <img src="/assets/images/fist_right.png" height="100" /> |
 |-|-|
-| <img src="/assets/images/openhand_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhand_right.png" height="100" /> |
+| <img src="/assets/images/openhand_left.png" height="100" /> | <img src="/assets/images/openhand_right.png" height="100" /> |
 
 サポートハンドはあまり重要でないと勘違いしないでください、実はサインの仕方に大きな違いがあるのです。覚えておいてください！
 
@@ -72,9 +72,9 @@ VRChatでは、VRでの手話の使い方に大きく影響するのは以下の
 
 本サイトでは、視覚的にわかるように、**ドミナント**（右手）を黒色、**サポート**（左手）を灰色として判定しています：
 
-| <img src="/assets/images/fist_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist_right.png" height="100" /> |
+| <img src="/assets/images/fist_left.png" height="100" /> | <img src="/assets/images/fist_right.png" height="100" /> |
 |-|-|
-| <img src="/assets/images/openhand_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhand_right.png" height="100" /> |
+| <img src="/assets/images/openhand_left.png" height="100" /> | <img src="/assets/images/openhand_right.png" height="100" /> |
 
 サポートハンドはあまり重要でないと勘違いしないでください、実はサインの仕方に大きな違いがあるのです。覚えておいてください！
 
@@ -100,7 +100,7 @@ VRChatでは、VRでの手話の使い方に大きく影響するのは以下の
 
 本サイトでは、視覚的にわかるように、**ドミナント**（右手）を黒色、**サポート**（左手）を灰色として判定しています：
 
-| <img src="/assets/images/fist_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist_right.png" height="100" /> |
+| <img src="/assets/images/fist_left.png" height="100" /> | <img src="/assets/images/fist_right.png" height="100" /> |
 |-|-|
 | <img src="/assets/images/openhand_left.png" height="100" /> | <img src="/assets/images/openhand_right.png" height="100" /> |
 

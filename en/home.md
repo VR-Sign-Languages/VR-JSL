@@ -43,9 +43,9 @@ In many sign languages, those often use **DOMINANT** and **SUPPORT** hands. For 
 
 On this website, we will determine the **DOMINANT (right)** hand as colored black hand and **SUPPORT (left)** hand as colored gray as shown visually:
 
-| <img src="/assets/images/fist_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist_right.png" height="100" /> |
+| <img src="/assets/images/fist_left.png" height="100" /> | <img src="/assets/images/fist_right.png" height="100" /> |
 |-|-|
-| <img src="/assets/images/openhand_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhand_right.png" height="100" /> |
+| <img src="/assets/images/openhand_left.png" height="100" /> | <img src="/assets/images/openhand_right.png" height="100" /> |
 
 Don't mistake the support hand as less important, it actually makes a huge difference in how you're signing. Remember those!
 
@@ -71,9 +71,9 @@ In many sign languages, those often use **DOMINANT** and **SUPPORT** hands. For 
 
 On this website, we will determine the **DOMINANT (right)** hand as colored black hand and **SUPPORT (left)** hand as colored gray as shown visually:
 
-| <img src="/assets/images/fist_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist_right.png" height="100" /> |
+| <img src="/assets/images/fist_left.png" height="100" /> | <img src="/assets/images/fist_right.png" height="100" /> |
 |-|-|
-| <img src="/assets/images/openhand_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhand_right.png" height="100" /> |
+| <img src="/assets/images/openhand_left.png" height="100" /> | <img src="/assets/images/openhand_right.png" height="100" /> |
 
 Don't mistake the support hand as less important, it actually makes a huge difference in how you're signing. Remember those!
 
@@ -99,9 +99,9 @@ In many sign languages, those often use **DOMINANT** and **SUPPORT** hands. For 
 
 On this website, we will determine the **DOMINANT (right)** hand as colored black hand and **SUPPORT (left)** hand as colored gray as shown visually:
 
-| <img src="/assets/images/fist_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist_right.png" height="100" /> |
+| <img src="/assets/images/fist_left.png" height="100" /> | <img src="/assets/images/fist_right.png" height="100" /> |
 |-|-|
-| <img src="/assets/images/openhand_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhand_right.png" height="100" /> |
+| <img src="/assets/images/openhand_left.png" height="100" /> | <img src="/assets/images/openhand_right.png" height="100" /> |
 
 Don't mistake the support hand as less important, it actually makes a huge difference in how you're signing. Remember those!
 
@@ -121,9 +121,9 @@ In many sign languages, those often use **DOMINANT** and **SUPPORT** hands. For 
 
 On this website, we will determine the **DOMINANT (right)** hand as colored black hand and **SUPPORT (left)** hand as colored gray as shown visually:
 
-| <img src="/assets/images/fist_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/fist_right.png" height="100" /> |
+| <img src="/assets/images/fist_left.png" height="100" /> | <img src="/assets/images/fist_right.png" height="100" /> |
 |-|-|
-| <img src="/assets/images/openhand_left.png" height="100" /> | <img src="/VRSignLanguageDictionary/assets/images/openhand_right.png" height="100" /> |
+| <img src="/assets/images/openhand_left.png" height="100" /> | <img src="/assets/images/openhand_right.png" height="100" /> |
 
 Don't mistake the support hand as less important, it actually makes a huge difference in how you're signing. Remember those!
 
