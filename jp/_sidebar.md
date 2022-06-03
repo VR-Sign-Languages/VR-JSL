@@ -1,4 +1,4 @@
-# <div style="text-align: center;">日本手話辞書の索引</div>
+* # 日本手話辞書の索引
 * [TOP](/jp/home.md)
 * [仮名](/jp/kana.md)
 	* [あ](/jp/kana/あ.md)
