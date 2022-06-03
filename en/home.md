@@ -115,7 +115,7 @@ Those controllers are revolved around accurate finger tracking unlike other cont
 
 Before moving forward, ensure that **Gesture Mode** is turned off before signing with a conversation partner. You can press the left thumbstick to disable the **Gesture Mode**.
 
-<img src="/Vassets/images/gesture-toggle.png" height="300" />
+<img src="/assets/images/gesture-toggle.png" height="300" />
 
 In many sign languages, those often use **DOMINANT** and **SUPPORT** hands. For example, your dominant hand is your right and your support hand your left. Also, this website will use the right hand as dominant hand, if your dominant hand is your left, just assume the opposites of dominant and support hands. *Make sure you use correct hands for signing.*
 
