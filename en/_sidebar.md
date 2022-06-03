@@ -1,4 +1,4 @@
-* Japanese Sign Language
+# <div style="text-align: center;">JSL Dictionary Index</div>
 * [Introduction](/en/intro.md)
 * [Kana in JSL](/en/kana.md)
 	* [あ](/en/kana/あ.md)
