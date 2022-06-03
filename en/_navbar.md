@@ -1,3 +1,3 @@
-* [Home](/en/home.md)
-* [Contributors](/en/contributors.md)
+* [Home](home.md)
+* [Contributors](contributors.md)
 * [🇯🇵](/jp/home.md)
