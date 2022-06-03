@@ -35,6 +35,11 @@
       			relativePath: true,
       			repo: 'https://github.com/VR-Sign-Languages/VR-JSL',
                 
+                themeable: {
+                    readyTransition : true,
+                    responsiveTables: true,
+                },
+                
       			tabs: {
     				persist: true,
     				sync: true,
@@ -42,19 +47,6 @@
     				tabComments: true,
     				tabHeadings: true
   				},
-                
-                darkMode: {
-                    dark: {
-                        background: "#1c2022",
-                        toggleBtnBg: "white",
-                        textColor: "white"
-                    },
-                    light: {
-                        background: "white",
-                        toggleBtnBg: "var(--theme-color)",
-                        textColor: "black"
-                    }
-                },
                 
                 'flexible-alerts': {
                     style: 'callout',
@@ -121,6 +113,7 @@
 		</style>
         
   		<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+        <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
         <script src="//unpkg.com/mermaid/dist/mermaid.js"></script>
         <script src="//unpkg.com/docsify-mermaid@latest/dist/docsify-mermaid.js"></script>
   		<script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
