@@ -15,7 +15,7 @@ VRChatでは、VRでの手話の使い方に大きく影響するのは以下の
 
 次の8つのジェスチャーは、それらに似ている：
 
-<img src="/assets/images/idle_right.png" height="50" /><img src="/assets/images/openhand_right.png" height="50" /><img src="/assets/images/victory_right.png" height="50" /><img src="/assets/images/point_right.png" height="50" /><img src="/Vassets/images/fingergun_right.png" height="50" /><img src="/assets/images/thumbsup_right.png" height="50" /><img src="/assets/images/fist_right.png" height="50" /><img src="/assets/images/rocknroll_right.png" height="50" />
+<img src="/assets/images/idle_right.png" height="50" /><img src="/assets/images/openhand_right.png" height="50" /><img src="/assets/images/victory_right.png" height="50" /><img src="/assets/images/point_right.png" height="50" /><img src="/assets/images/fingergun_right.png" height="50" /><img src="/assets/images/thumbsup_right.png" height="50" /><img src="/assets/images/fist_right.png" height="50" /><img src="/assets/images/rocknroll_right.png" height="50" />
 
 (Idle, Open, Victory, Point, Finger Gun, Thumbs Up, Fist, Rock 'n' Roll)
 
