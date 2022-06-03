@@ -1,9 +1,6 @@
 # Welcome to VR Sign Language Dictionary
 
 
-> [!NOTE]
-> This is an attempt to create the dictionary of VR American Sign Language (VR-ASL) and VR Japanese Sign Language (VR-JSL). You can use this dictionary for references only.
-
 > [!WARNING]
 > * If something here is documented incorrectly, please click the GitHub logo on top left of the page. Then, report the issue or submit pull request containing corrections.
 > * Please don't serve this as an authority on sign languages. **Instead, if a trusted member of the Deaf / HoH community tells you otherwise, pay attention to them over what is documented here.**
@@ -11,6 +8,9 @@
 
 > [!ATTENTION]
 > Disclaimer: Some of stuff here is based on and/or copied from Devon's Sign Language resource website. [[Link]](https://vrsl.withdevon.xyz)
+
+> [!NOTE]
+> This is an attempt to create the dictionary of VR American Sign Language (VR-ASL) and VR Japanese Sign Language (VR-JSL). You can use this dictionary for references only.
 
 In VRChat, there are two main things that affect how you use sign languages in VR: **controller type** and **dominant hand**. Your controllers dicate the kind of gestures you can perform, and how they are displayed in-game. Your dominant hand changes which hand you use for each part of a sign. There are only eight hand gestures in-game.
 
