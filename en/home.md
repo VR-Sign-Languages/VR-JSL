@@ -1,4 +1,4 @@
-# Welcome to VR Sign Language Dictionary
+# Welcome to VR Japanese Sign Language Dictionary
 
 
 > [!WARNING]
