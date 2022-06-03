@@ -1,15 +1,15 @@
-# Search by Kana
+# カテゴリー：仮名
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |-|-|-|-|-|
-| [あ](/jp/jsl/sign/category-あ.md) | [い](/jp/jsl/sign/category-い.md) | [う](/jp/jsl/sign/category-う.md) | [え](/jp/jsl/sign/category-え.md) | [お](/jp/jsl/sign/category-お.md) |
-| [か](/jp/jsl/sign/category-か.md) | [き](/jp/jsl/sign/category-き.md) | [く](/jp/jsl/sign/category-く.md) | [け](/jp/jsl/sign/category-け.md) | [こ](/jp/jsl/sign/category-こ.md) |
-| [さ](/jp/jsl/sign/category-さ.md) | [し](/jp/jsl/sign/category-し.md) | [す](/jp/jsl/sign/category-す.md) | [せ](/jp/jsl/sign/category-せ.md) | [そ](/jp/jsl/sign/category-そ.md) |
-| [た](/jp/jsl/sign/category-た.md) | [ち](/jp/jsl/sign/category-ち.md) | [つ](/jp/jsl/sign/category-つ.md) | [て](/jp/jsl/sign/category-て.md) | [と](/jp/jsl/sign/category-と.md) |
-| [な](/jp/jsl/sign/category-な.md) | [に](/jp/jsl/sign/category-に.md) | [ぬ](/jp/jsl/sign/category-ぬ.md) | [ね](/jp/jsl/sign/category-ね.md) | [の](/jp/jsl/sign/category-の.md) |
-| [は](/jp/jsl/sign/category-は.md) | [ひ](/jp/jsl/sign/category-ひ.md) | [ふ](/jp/jsl/sign/category-ふ.md) | [へ](/jp/jsl/sign/category-へ.md) | [ほ](/jp/jsl/sign/category-ほ.md) |
-| [ま](/jp/jsl/sign/category-ま.md) | [み](/jp/jsl/sign/category-み.md) | [む](/jp/jsl/sign/category-む.md) | [め](/jp/jsl/sign/category-め.md) | [も](/jp/jsl/sign/category-も.md) |
-| [や](/jp/jsl/sign/category-や.md) | | [ゆ](/jp/jsl/sign/category-ゆ.md) | | [よ](/jp/jsl/sign/category-よ.md) |
-| [ら](/jp/jsl/sign/category-ら.md) | [り](/jp/jsl/sign/category-り.md) | [る](/jp/jsl/sign/category-る.md) | [れ](/jp/jsl/sign/category-れ.md) | [ろ](/jp/jsl/sign/category-ろ.md) |
-| [わ](/jp/jsl/sign/category-わ.md) | | | | [を](/jp/jsl/sign/category-を.md) | 
-| | | [ん](/jp/jsl/sign/category-ん.md) | | |
+| [あ](category-あ.md) | [い](category-い.md) | [う](category-う.md) | [え](category-え.md) | [お](category-お.md) |
+| [か](category-か.md) | [き](category-き.md) | [く](category-く.md) | [け](category-け.md) | [こ](category-こ.md) |
+| [さ](category-さ.md) | [し](category-し.md) | [す](category-す.md) | [せ](category-せ.md) | [そ](category-そ.md) |
+| [た](category-た.md) | [ち](category-ち.md) | [つ](category-つ.md) | [て](category-て.md) | [と](category-と.md) |
+| [な](category-な.md) | [に](category-に.md) | [ぬ](category-ぬ.md) | [ね](category-ね.md) | [の](category-の.md) |
+| [は](category-は.md) | [ひ](category-ひ.md) | [ふ](category-ふ.md) | [へ](category-へ.md) | [ほ](category-ほ.md) |
+| [ま](category-ま.md) | [み](category-み.md) | [む](category-む.md) | [め](category-め.md) | [も](category-も.md) |
+| [や](category-や.md) | | [ゆ](category-ゆ.md) | | [よ](category-よ.md) |
+| [ら](category-ら.md) | [り](category-り.md) | [る](category-る.md) | [れ](category-れ.md) | [ろ](category-ろ.md) |
+| [わ](category-わ.md) | | | | [を](category-を.md) | 
+| | | [ん](category-ん.md) | | |
