@@ -1,5 +1,4 @@
 * # JSL Dictionary Index
-* [Home](/en/home.md)
 * [Kana in JSL](/en/kana.md)
 	* [あ](/en/kana/あ.md)
 	* [い](/en/kana/い.md)

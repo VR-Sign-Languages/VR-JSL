@@ -1,5 +1,4 @@
 * # 日本手話辞書の索引
-* [TOP](/jp/home.md)
 * [仮名](/jp/kana.md)
 	* [あ](/jp/kana/あ.md)
 	* [い](/jp/kana/い.md)
